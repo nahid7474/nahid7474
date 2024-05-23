@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nahid! <br/><a href="https://github.com/nahid7474">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/nahidanalyst/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Nahid! <br/><a href="https://github.com/nahid7474">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
