@@ -3,15 +3,19 @@
 <a href="https://www.linkedin.com/in/nahidanalyst/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate Cybersecurity Analyst and ready to Safeguard Your Systems from Day One! 💼 
+
 I am proficient in threat detection, incident response, and risk mitigation strategies. Leveraging a blend of technical expertise and analytical acumen, I am committed to safeguarding your organization's assets with precision and agility. Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
 
 My objective is to leverage my expertise as a Cybersecurity Analyst to proactively protect organizations from cyber threats while continuously enhancing my skills in a fast-paced, innovative environment.
 My journey in computer science and experience as a software developer, IT Analyst and Cybersecurity Analyst combinedly has led me to develop a great passion for cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+
+<img src="https://github.com/nahid7474/Photos/blob/main/SkillList-Photoroom.png-Photoroom.png" />    <img src="https://github.com/nahid7474/Photos/blob/main/SkillGraph-Photoroom.png-Photoroom.png" />
+
+
+| Home Lab Projects                             | Project Documentation         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -19,7 +23,6 @@ My journey in computer science and experience as a software developer, IT Analys
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
