@@ -12,7 +12,7 @@ My journey in computer science and experience as a software developer, IT Analys
 ## Skills
 
 
-<img src="https://github.com/nahid7474/Photos/blob/main/SkillList-Photoroom.png-Photoroom.png" />    <img src="https://github.com/nahid7474/Photos/blob/main/SkillGraph-Photoroom.png-Photoroom.png" />
+| <img src="https://github.com/nahid7474/Photos/blob/main/SkillList-Photoroom.png-Photoroom.png" />  |  <img src="https://github.com/nahid7474/Photos/blob/main/SkillGraph-Photoroom.png-Photoroom.png" />
 
 
 | Home Lab Projects                             | Project Documentation         | Tools Used
