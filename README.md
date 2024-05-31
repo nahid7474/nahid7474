@@ -15,9 +15,9 @@ My journey in computer science and experience as a software developer, IT Analys
 <img src="https://github.com/nahid7474/Photos/blob/main/SkillList-Photoroom.png-Photoroom.png" />    <img src="https://github.com/nahid7474/Photos/blob/main/SkillGraph-Photoroom.png-Photoroom.png" />
 
 
-| Home Lab Projects                             | Project Documentation         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Home Lab Projects                             | Project Documentation         | Tools Used
+|-----------------------------------------------|----------------------------|-------------------------------------------------------------
+| SIEM Implementation and Intrusion Detection   | <a href="https://github.com/nahid7474/Project1">Lab Activities</a>| Oracle VirtualBox, Splunk Enterprise Security Package, Virtual Machines, Wireshark
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
