@@ -20,7 +20,7 @@ My journey in computer science and experience as a software developer, IT Analys
 | SIEM Implementation and Intrusion Detection   | <a href="https://github.com/nahid7474/Project1">Lab Activities</a>| Oracle VirtualBox, Splunk Enterprise Security Package, Virtual Machines, Wireshark
 | Host Discovery & Vulnerability Scanning With Nessus | <a href="https://github.com/nahid7474/Nessus">Lab Activities</a>| Nessus, Virtual Machine
 | Penetration Testing with NMAP on Kali Linux   | <a href="https://github.com/nahid7474/PenTest/tree/main">Lab Activities</a>| Kali Linux, NMAP, VMs
-| Implement Security Operation Center (SOC) – Home Version  |Lab Activities, In progress| Working on requirements gathering and Network Diagram | 
+| Implement Security Operation Center (SOC) – Home Version  |In progress| Working on requirements gathering and Network Diagram | 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
