@@ -22,25 +22,25 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 | Penetration Testing with NMAP on Kali Linux   | <a href="https://github.com/nahid7474/PenTest/tree/main">Lab Activities</a>| Kali Linux, NMAP, VMs
 | Implement Security Operation Center (SOC) – Home Version  |In progress| Working on requirements gathering and Network Diagram | 
 
-## Tools
-| Endpoint Security                   | SIEM                       | Vulnerability Assessment | Threat Intelligence | Network Analysis and Forensics | PenTest
-|-------------------------------------|----------------------------|--------------------------|---------------------|--------------------------------|--------------------------
-| Falcon CrowdStrike                  | Splunk                     | NMAP                     |VirusTotal, WhereGoes | Wireshark | NMAP|
-| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox   | Hybrid-Analysis |
-| Microsoft 365 Defender              | Sumo Logic                 | Qualys                   |AbuseIPDB| AnyRun|
-| Microsoft Defender for Cloud        |                            |                          |OpenCTI, Valimail| 
-| Microsoft Intune | 
+## Tools 
+| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment | OSINT Platforms      | Network Analysis and Forensics | PenTest
+|-------------------------------------|----------------------------|--------------------------|----------------------|--------------------------------|--------------------------
+| Falcon CrowdStrike                  | Splunk                     | NMAP                     |VirusTotal, WhereGoes | Wireshark                      | NMAP|
+| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox| Hybrid-Analysis                |
+| Microsoft Defender for Office 365   | Sumo Logic                 | Qualys                   |AbuseIPDB             | AnyRun                         |
+| Microsoft Defender for Cloud        |                            |                          |OpenCTI, Valimail     | 
+##OS
+Windows, Linux (Kali and Ubuntu)
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+1.	Microsoft Security Operations Analyst (SC-200) 
+2.	CrowdStrike Certified Falcon Responder (CCFR-201) 
+3.	Splunk Core Certified User 
+4.	CrowdStrike Certified Falcon Administrator (CCFA-200) 
+5.	CompTIA Security+  
+6.	Microsoft Azure Administrator Associate (AZ - 104) 
+7.	ITIL Foundation 4
+----------------------------------------------------------------------------------------------------------------------
+Thank you for your time! 
+---------------------------------------------------------------------------------------------------------------------
