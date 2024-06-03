@@ -30,7 +30,9 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 | Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox| Hybrid-Analysis                |
 | Microsoft Defender for Office 365   | Sumo Logic                 | Qualys                   |AbuseIPDB             | AnyRun                         |
 | Microsoft Defender for Cloud        |                            |                          |OpenCTI, Valimail     | 
-##OS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+##Oerating System
+
 Windows, Linux (Kali and Ubuntu)
 
 ## Certifications
