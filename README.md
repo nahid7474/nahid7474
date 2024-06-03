@@ -31,7 +31,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 | Microsoft Defender for Office 365   | Sumo Logic                 | Qualys                   |AbuseIPDB             | AnyRun                         |
 | Microsoft Defender for Cloud        |                            |                          |OpenCTI, Valimail     | 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##Oerating System
+##Operating Systems
 
 Windows, Linux (Kali and Ubuntu)
 
