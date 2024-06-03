@@ -4,10 +4,10 @@
 
 I am a passionate Cybersecurity Analyst and ready to Safeguard Your Systems from Day One! 💼 
 
-I am proficient in threat detection, incident response, and risk mitigation strategies. Leveraging a blend of technical expertise and analytical acumen, I am committed to safeguarding your organization's assets with precision and agility. Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
-
-My objective is to leverage my expertise as a Cybersecurity Analyst to proactively protect organizations from cyber threats while continuously enhancing my skills in a fast-paced, innovative environment.
+I am proficient in threat detection, incident response, and risk mitigation strategies. Leveraging a blend of technical expertise and analytical skills, I am committed to safeguarding your organization's assets with precision and agility. 
 My journey in computer science and experience as a software developer, IT Analyst and Cybersecurity Analyst combinedly has led me to develop a great passion for cybersecurity.
+Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
+
 
 ## Skills
 
