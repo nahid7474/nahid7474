@@ -18,7 +18,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 | Home Lab Projects                             | Project Documentation         | Tools Used
 |-----------------------------------------------|----------------------------|-------------------------------------------------------------
-| SIEM Implementation and Intrusion Detection   | <a href="https://github.com/nahid7474/Project1">Lab Activities</a>| Oracle VirtualBox, Splunk Enterprise Security Package, Virtual Machines, Wireshark
+| SIEM Implementation and Intrusion Detection with Splunk and Wireshark  | <a href="https://github.com/nahid7474/Project1">Lab Activities</a>| Oracle VirtualBox, Splunk Enterprise Security Package, Virtual Machines, Wireshark
 | Host Discovery & Vulnerability Scanning With Nessus | <a href="https://github.com/nahid7474/Nessus">Lab Activities</a>| Nessus, Virtual Machine
 | Penetration Testing with NMAP on Kali Linux   | <a href="https://github.com/nahid7474/PenTest/tree/main">Lab Activities</a>| Kali Linux, NMAP, VMs
 | Implement Security Operation Center (SOC) – Home Version  |In progress| Working on requirements gathering and Network Diagram | 
