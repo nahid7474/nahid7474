@@ -47,7 +47,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Operating Systems
 
-Windows, Linux (Kali and Ubuntu)
+Windows, Linux 
 
 ## Certifications
 
