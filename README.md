@@ -27,12 +27,12 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 
 ## Tools 
-| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment | OSINT Platforms      | Network Analysis and Forensics | PenTest
+| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest| OSINT Platforms      | Network Analysis and Forensics | Firewall
 |-------------------------------------|----------------------------|--------------------------|----------------------|--------------------------------|--------------------------
-| Falcon CrowdStrike                  | Splunk                     | NMAP                     |VirusTotal, WhereGoes | Wireshark                      | NMAP|
-| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox| Hybrid-Analysis                |
-| Microsoft Defender for Office 365   | Sumo Logic                 | Qualys                   |AbuseIPDB             | AnyRun                         |
-| Microsoft Defender for Cloud        |                            |                          |OpenCTI, Valimail     | 
+| Falcon CrowdStrike                  | Splunk                     | NMAP                     |VirusTotal, WhereGoes | Wireshark                      | Microsoft Azure FIrewall|
+| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox| Hybrid-Analysis                | Sophos|
+| Microsoft Defender for Office 365   | Sumo Logic                 |                          |AbuseIPDB             | AnyRun                         |
+| Microsoft Defender for Cloud        | McAfee                     |                          |OpenCTI, Valimail     | 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##Operating Systems
 
