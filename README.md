@@ -2,11 +2,9 @@
 
 <a href="https://www.linkedin.com/in/nahidanalyst/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a passionate Cybersecurity Analyst and ready to Safeguard Your Systems from Day One! 💼 
-
-I am proficient in threat detection, incident response, and risk mitigation strategies. 
-Leveraging a blend of technical expertise and analytical skills, I am committed to safeguarding your organization's assets with precision and agility. 
-My journey in computer science and experience as a software developer, IT Analyst and Cybersecurity Analyst combinedly has led me to develop a great passion for cybersecurity.
+I am a passionate Cybersecurity professional and ready to Safeguard Your Systems from Day One! 💼 
+ 
+Leveraging a blend of technical expertise and analytical skills, I am committed to safeguarding your organization's assets. 
 Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
 
 
