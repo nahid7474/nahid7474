@@ -10,10 +10,21 @@ My journey in computer science and experience as a software developer, IT Analys
 Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
 
 
-## Skills
+## Skillsets
 
 
-<img src="https://github.com/nahid7474/Photos/blob/main/skillsets.png" /> 
+- Digital Forensic & Incident Response: Ability to respond to and manage security incidents, including incident detection, analysis, containment, and recovery.
+- Vulnerability Management: Conducting vulnerability assessments, using scanning tools, and implementing remediation strategies.
+- Automation: Developing automation playbooks, and workflows for automated incident response and security operations.
+- Network Security: Proficiency in network protocols, firewalls, VPNs, IDS/IPS, and securing network infrastructure.
+- Cloud Security: Expertise in securing cloud environments (AWS, Azure, GCP), understanding cloud security best practices, and configuring cloud security controls.
+- Administration: Deploying and maintaining security products, managing user identities, implementing access controls, and integrating IAM frameworks (e.g., Active Directory).
+- SIEM and Security Monitoring: Experience with SIEM tools, security monitoring, log analysis, and threat detection.
+- Threat Intelligence: Understanding threat actors, leveraging threat intelligence feeds, and applying threat intelligence to enhance defenses.
+- Endpoint Security: Utilizing endpoint detection and response (EDR) tools, antivirus solutions, and endpoint security management.
+- Compliance and Auditing: Knowledge of regulatory requirements (e.g., GDPR, PCI-DSS), conducting security audits, and ensuring compliance.
+
+## Home Lab and Project Activities
 
 
 | Home Lab Projects                             | Project Documentation         | Tools Used
@@ -27,14 +38,15 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 
 ## Tools 
-| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest| OSINT Platforms      | Network Analysis and Forensics | Firewall
-|-------------------------------------|----------------------------|--------------------------|----------------------|--------------------------------|--------------------------
-| Falcon CrowdStrike                  | Splunk                     | NMAP                     |VirusTotal, WhereGoes | Wireshark                      | Microsoft Azure FIrewall|
-| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                   |URLScan.io, MX Toolbox| Hybrid-Analysis                | Sophos|
-| Microsoft Defender for Office 365   | Sumo Logic                 |                          |AbuseIPDB             | AnyRun                         |
-| Microsoft Defender for Cloud        | McAfee                     |                          |OpenCTI, Valimail     | 
+| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest|  Firewall            | Network Analysis and Forensics | OSINT Platforms|
+|-------------------------------------|----------------------------|------------------------------------|----------------------|--------------------------------|--------------------------
+| Falcon CrowdStrike                  | Splunk                     | NMAP                               |Microsoft Azure FIrewall | Wireshark                   | VirusTotal, WhereGoes|
+| Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                             |Sophos                   | Hybrid-Analysis             | URLScan.io, MX Toolbox|
+| Microsoft Defender for Office 365   | Sumo Logic                 |                                    |                         |                             |AbuseIPDB, AnyRun|
+| Microsoft Defender for Cloud        | McAfee                     |                                    |                         |                             |OpenCTI, Valimail & many more...|
+| Microsoft Defender for Identity     |                            |                                    |                         |                             ||
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##Operating Systems
+## Operating Systems
 
 Windows, Linux (Kali and Ubuntu)
 
