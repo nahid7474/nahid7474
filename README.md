@@ -22,7 +22,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 - Endpoint Security: Utilizing endpoint detection and response (EDR) tools, antivirus solutions, and endpoint security management.
 - Compliance and Auditing: Knowledge of regulatory requirements (e.g., GDPR, PCI-DSS), and ensuring compliance.
 
-## Home Lab and Project Activities
+## Lab and Project Activities
 
 
 | Projects                                      | Project Documentation         | Tools/Resources Used
@@ -38,9 +38,9 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 
 ## Tools 
-| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest|  Firewall            | Network Analysis and Forensics | OSINT Platforms|
+| Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest|  Firewall            | Network Analysis and Forensics | OSINT Platforms| Endpoint Management |
 |-------------------------------------|----------------------------|------------------------------------|----------------------|--------------------------------|--------------------------
-| Falcon CrowdStrike                  | Splunk                     | NMAP                               |Microsoft Azure FIrewall | Wireshark                   | VirusTotal, WhereGoes|
+| Falcon CrowdStrike                  | Splunk                     | NMAP                               |Microsoft Azure FIrewall | Wireshark                   | VirusTotal, WhereGoes| Microsoft Intune|
 | Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                             |Sophos                   | Hybrid-Analysis             | URLScan.io, MX Toolbox|
 | Microsoft Defender for Office 365   | Sumo Logic                 |                                    |                         |                             |AbuseIPDB, AnyRun|
 | Microsoft Defender for Cloud        | McAfee                     |                                    |                         |                             |OpenCTI, Valimail & many more...|
