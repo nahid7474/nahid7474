@@ -5,6 +5,7 @@
 I am a passionate Cybersecurity professional and ready to Safeguard Your Systems from Day One! 💼 
  
 Leveraging a blend of technical expertise and analytical skills, I am committed to safeguarding your organization's assets. 
+
 Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
 
 
