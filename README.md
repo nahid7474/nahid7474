@@ -39,7 +39,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 ## Tools 
 | Endpoint & Cloud Security           | SIEM                       | Vulnerability Assessment &  PenTest|  Firewall            | Network Analysis and Forensics | OSINT Platforms| Endpoint Management |
-|-------------------------------------|----------------------------|------------------------------------|----------------------|--------------------------------|--------------------------|
+|-------------------------------------|----------------------------|------------------------------------|----------------------|--------------------------------|--------------------------|------------|
 | Falcon CrowdStrike                  | Splunk                     | NMAP                               |Microsoft Azure FIrewall | Wireshark                   | VirusTotal, WhereGoes| Microsoft Intune|
 | Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                             |Sophos                   | Hybrid-Analysis             | URLScan.io, MX Toolbox|
 | Microsoft Defender for Office 365   | Sumo Logic                 |                                    |                         |                             |AbuseIPDB, AnyRun|
@@ -50,7 +50,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 
 Windows, Linux 
 
-## Certifications
+## Certifications Achieved: 
 
 1.	Microsoft Security Operations Analyst (SC-200) 
 2.	CrowdStrike Certified Falcon Responder (CCFR-201) 
