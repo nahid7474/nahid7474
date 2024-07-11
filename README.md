@@ -11,16 +11,26 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 ## Skillsets
 
 
-- Digital Forensic & Incident Response: Ability to respond to and manage security incidents, including incident detection, analysis, containment, and recovery.
-- Vulnerability Management: Conducting vulnerability assessments, using scanning tools, and implementing remediation strategies.
-- Automation: Developing automation playbooks, and workflows for automated incident response and security operations.
-- Network Security: Proficiency in network protocols, firewalls, VPNs, IDS/IPS, and securing network infrastructure.
-- Cloud Security: Expertise in securing cloud environments, understanding cloud security best practices, and configuring cloud security controls.
-- Administration: Deploying and maintaining security products, managing user identities, implementing access controls.
-- SIEM and Security Monitoring: Experience with SIEM tools, security monitoring, log analysis, and threat detection.
-- Threat Intelligence: Understanding threat actors, leveraging threat intelligence feeds, and applying threat intelligence to enhance defenses.
-- Endpoint Security: Utilizing endpoint detection and response (EDR) tools, antivirus solutions, and endpoint security management.
-- Compliance and Auditing: Knowledge of regulatory requirements (e.g., GDPR, PCI-DSS), and ensuring compliance.
+- <u>Digital Forensic & Incident Response: 
+    - Ability to respond to and manage security incidents, including incident detection, analysis, containment, and recovery.
+- Vulnerability Management: 
+    - Conducting vulnerability assessments, using scanning tools, and implementing remediation strategies.
+- Automation: 
+    - Developing automation playbooks, and workflows for automated incident response and security operations.
+- Network Security: 
+    - Proficiency in network protocols, firewalls, VPNs, IDS/IPS, and securing network infrastructure.
+- Cloud Security: 
+    - Expertise in securing cloud environments, understanding cloud security best practices, and configuring cloud security controls.
+- Administration: 
+    - Deploying and maintaining security products, managing user identities, implementing access controls.
+- SIEM and Security Monitoring: 
+    - Experience with SIEM tools, security monitoring, log analysis, and threat detection.
+- Threat Intelligence: 
+    - Understanding threat actors, leveraging threat intelligence feeds, and applying threat intelligence to enhance defenses.
+- Endpoint Security: 
+    - Utilizing endpoint detection and response (EDR) tools, antivirus solutions, and endpoint security management.
+- Compliance and Auditing: 
+    - Knowledge of regulatory requirements (e.g., GDPR, PCI-DSS), and ensuring compliance.
 
 ## Lab and Project Activities
 
