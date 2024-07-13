@@ -32,7 +32,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 - Compliance and Auditing: 
     - Knowledge of regulatory requirements (e.g., GDPR, PCI-DSS), and ensuring compliance.
 
-## Lab and Project Activities
+## **Project Activities**
 
 
 | Projects                                      | Project Documentation         | Tools/Resources Used
