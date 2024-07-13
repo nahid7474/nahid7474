@@ -52,7 +52,7 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 |-------------------------------------|----------------------------|------------------------------------|----------------------|--------------------------------|--------------------------|------------|
 | Falcon CrowdStrike                  | Splunk                     | NMAP                               |Microsoft Azure FIrewall | Wireshark                   | VirusTotal, WhereGoes| Microsoft Intune|
 | Microsoft Defender for Endpoint     | Microsoft Sentinel         | Nessus                             |Sophos                   | Hybrid-Analysis             | URLScan.io, MX Toolbox|
-| Microsoft Defender for Office 365   | Sumo Logic                 |                                    |                         |                             |AbuseIPDB, AnyRun|
+| Microsoft Defender for Office 365   | Sumo Logic                 |                                    |PfSense                  |                             |AbuseIPDB, AnyRun|
 | Microsoft Defender for Cloud        | McAfee                     |                                    |                         |                             |OpenCTI, Valimail & many more...|
 | Microsoft Defender for Identity     |                            |                                    |                         |                             ||
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
