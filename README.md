@@ -4,7 +4,7 @@
 
 I am a passionate Cybersecurity professional and ready to Safeguard Your Systems from Day One! 💼 
 
-Leveraging a blend of technical expertise and analytical skills plus 9 years of industry experience in IT and Security, I am committed to safeguarding your organization's assets.  
+With 9 years of industry experience in IT and Security, I am proficient in safeguarding organizational assets through a combination of technical expertise and analytical skills. 
 Let's collaborate to ensure your digital landscape remains resilient in the face of adversity. 🛡️💻 
 
 
