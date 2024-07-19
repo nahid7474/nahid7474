@@ -21,6 +21,8 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
     - Proficiency in network protocols, firewalls, VPNs, IDS/IPS, and securing network infrastructure.
 - Cloud Security: 
     - Expertise in securing cloud environments, understanding cloud security best practices, and configuring cloud security controls.
+- Malware Analysis: 
+    - Leveraging the capabilities of the Any.Run platform to conduct analysis of malware sample, observe their behavior, identify their functionalities, and understand their potential impact on systems.
 - Administration: 
     - Deploying and maintaining security products, managing user identities, implementing access controls.
 - SIEM and Security Monitoring: 
