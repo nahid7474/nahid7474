@@ -39,8 +39,9 @@ Let's collaborate to ensure your digital landscape remains resilient in the face
 |-----------------------------------------------|----------------------------|-------------------------------------------------------------
 | Implement Security Operation Center (SOC) with Microsoft  |<a href="https://github.com/nahid7474/SOC">Lab Activities</a>| Microsoft Defender for Endpoints, Identity, Office 365, Sentinel, Azure Firewall, Threat Intelligence , Active Directory, Defender for Cloud Apps
 | Active Directory Project - Emulate a corporate network  | <a href="https://github.com/nahid7474/AD">Lab Activities</a>| Oracle VirtualBox, Windows Server 2019, Windows Virtual Machines 
-| Deploy and Configure Azure Firewall (Premium) | <a href="https://github.com/nahid7474/Firewall">Lab Activities</a>| Azure Portal, Windows VM
+| Malware Analysis | <a href="https://github.com/nahid7474/MalAnalysis">Lab Activities</a>| Any.Run
 | Harnessing Advanced Endpoint Management with Microsoft Intune | <a href="https://github.com/nahid7474/Intune">Lab Activities</a>| Microsoft Intune
+| Deploy and Configure Azure Firewall (Premium) | <a href="https://github.com/nahid7474/Firewall">Lab Activities</a>| Azure Portal, Windows VM
 | Phishing Attack Simulation   | <a href="https://github.com/nahid7474/Phish">Lab Activities</a>| Microsoft Defender
 | SIEM Implementation and Intrusion Detection with Splunk and Wireshark  | <a href="https://github.com/nahid7474/Project1">Lab Activities</a>| VirtualBox, Splunk Enterprise Security, VM, Wireshark
 | Host Discovery & Vulnerability Scanning With Nessus (In progress...) | <a href="https://github.com/nahid7474/Nessus">Lab Activities</a>| Nessus, VM 
